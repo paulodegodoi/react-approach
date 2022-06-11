@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+div {
+  margin: .5rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  margin-bottom: 2px;
+}

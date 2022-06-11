@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "name": "teclado",
+      "price": 155,
+      "id": 5
+    },
+    {
+      "name": "mochila",
+      "price": 59,
+      "id": 6
+    }
+  ]
+}

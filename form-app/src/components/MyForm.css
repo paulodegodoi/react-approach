@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  width: 500px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+input, textarea, select {
+  display: block;
+  margin-top: 10px;
+}
